@@ -16,7 +16,7 @@ Author URI: https://liamstewart.ca
 function ls_bacon($atts){
     extract(shortcode_atts(array(
         'p' => 1,//paras: optional number of paragraphs, defaults to 5.
-        't' => 'meat-and-filler',//type: all-meat for meat only or meat-and-filler for meat mixed with miscellaneous ‘lorem ipsum’ filler.
+        't' => 'all-meat',//type: all-meat for meat only or meat-and-filler for meat mixed with miscellaneous ‘lorem ipsum’ filler.
         's' => 0//start-with-lorem: optional pass 1 to start the first paragraph with ‘Bacon ipsum dolor sit amet’.
     ), $atts));
 
