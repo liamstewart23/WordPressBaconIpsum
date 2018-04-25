@@ -9,3 +9,5 @@ Activate and you're set!
 Using the shortcode `[bacon]` you will be returned with `1` paragraph of Bacon Ipsum.
 
 You can also use `[bacon p=X]` - `X` being the number of paragraphs you want returned.
+
+You can also use `[bacon t="meat-and-filler"]` for meat mixed with miscellaneous ‘lorem ipsum’ filler instead of only meat.
