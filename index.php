@@ -40,11 +40,11 @@ function ls_bacon($atts){
     return $shortcode;//return the meat
 }
 
-function register_shortcodes(){
+function ls_bacon_register_shortcodes(){
     add_shortcode('bacon', 'ls_bacon');// register shortcode
     add_filter('widget_text', 'do_shortcode');// shortcodes in widgets
     add_filter( 'the_excerpt', 'do_shortcode');// shortcodes in widgets
     add_filter( 'comment_text', 'do_shortcode' );// shortcodes in comments
 }
-add_action( 'init', 'register_shortcodes');// init
+add_action( 'init', 'ls_bacon_register_shortcodes');// init
 
