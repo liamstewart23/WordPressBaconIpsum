@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Bacon Ipsum Shortcode
-Plugin URI: https://github.com/liamstewart23/WordPressBaconIpsumShortcode
+Plugin URI: https://github.com/liamstewart23/WordPressBaconIpsum
 Description: Shortcode for Bacon Ipsum dummy content. Built using https://baconipsum.com JSON API
 Version: 1.0.0
 Author: Liam Stewart
