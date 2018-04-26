@@ -1,12 +1,10 @@
 # 🥓 WordPress Bacon Ipsum 🥓
-Shortcode for Bacon Ipsum dummy content. Built using https://baconipsum.com JSON API
+Shortcode for Bacon Ipsum dummy content.
 
 ## 🥓 Installation 🥓
 Activate and you're set!
 
 ## 🥓 How to access the meat of this juicy plugin? 🥓
-
-Using the shortcode `[bacon]` you will be returned with `1` paragraph of Bacon Ipsum.
 
 ### 🥓 Text 
 
@@ -23,4 +21,10 @@ Using the shortcode `[bacon_image]` returns a `300px` x `200px` image.
 `[pcsum width=X height=X]` - `X` being the value in pixels in which you want the image.
 
 You can use the alias `[bacon_pic]` for `[bacon_image]`
+
+## 🥓 Credits 🥓
+
+Thanks to https://baconipsum.com for the text.
+Thanks to https://baconmockup.com/ for the images.
+
 
