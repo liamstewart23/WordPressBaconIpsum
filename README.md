@@ -1,5 +1,5 @@
 # 🥓 WordPress Bacon Ipsum 🥓
-Shortcode for Bacon Ipsum dummy content.
+Shortcode for Bacon Ipsum dummy images and text.
 
 ## 🥓 Installation 🥓
 Activate and you're set!
