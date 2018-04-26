@@ -18,7 +18,7 @@ You can use the alias `[bacon_content]` for `[bacon_text]`
 
 Using the shortcode `[bacon_image]` returns a `300px` x `200px` image.
 
-`[pcsum width=X height=X]` - `X` being the value in pixels in which you want the image.
+`[bacon_image width=X height=X]` - `X` being the value in pixels in which you want the image.
 
 You can use the alias `[bacon_pic]` for `[bacon_image]`
 
