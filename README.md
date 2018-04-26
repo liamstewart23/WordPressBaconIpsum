@@ -25,6 +25,7 @@ You can use the alias `[bacon_pic]` for `[bacon_image]`
 ## 🥓 Credits 🥓
 
 Thanks to https://baconipsum.com for the text.
+
 Thanks to https://baconmockup.com/ for the images.
 
 
