@@ -8,10 +8,15 @@ Author: Liam Stewart
 Author URI: https://liamstewart.ca
 */
 
+/**
+ *
+ * How to use
+ *
+ * @return string
+ */
 function ls_bacon() {
-    return '🥓🥓🥓 Learn how to use Bacon Ipson WordPress short code here: <a href="https://github.com/liamstewart23/WordPressBaconIpsum">https://github.com/liamstewart23/WordPressBaconIpsum</a> 🥓🥓🥓';
+    return '🥓🥓🥓 Learn how to use Bacon Ipson WordPress short code here: <a href="https://github.com/liamstewart23/WordPressBaconIpsum" target="_blank">https://github.com/liamstewart23/WordPressBaconIpsum</a> 🥓🥓🥓';
 }
-
 
 /**
  *
